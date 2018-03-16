@@ -12,7 +12,7 @@ for (let number = 1; number <= 100; number += 1) {
   }
   
 Chess Board 
-// not my answer but look at theirs as I couldnt get it and I was running out of time.
+// not my answer. looked at theirs as I couldnt get it and I was running out of time.
 let size = 8;
 
 let board = "";
